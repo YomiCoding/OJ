@@ -1,4 +1,4 @@
-# 基于Gin、Gorm、Vue 实现的在线练习系统
+# 基于Gin、Gorm、Vue 实现的在线刷题管理系统
 > 后台语言：Golang、框架：Gin、GORM
 > 
 > 前台框架：Vue、ElementUI
