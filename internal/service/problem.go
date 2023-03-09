@@ -1,14 +1,14 @@
 package service
 
 import (
-	"gin-gorm-oj-master/define"
+	"OJ/define"
 	"log"
 	"net/http"
 	"strconv"
 	"time"
 
-	"gin-gorm-oj-master/helper"
-	"gin-gorm-oj-master/models"
+	"OJ/helper"
+	"OJ/models"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
