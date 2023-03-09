@@ -3,7 +3,7 @@ package models
 import (
 	"database/sql/driver"
 	"fmt"
-	"gin-gorm-oj-master/define"
+	"OJ/define"
 	"time"
 )
 
