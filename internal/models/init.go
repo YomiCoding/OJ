@@ -1,7 +1,7 @@
 package models
 
 import (
-	//"gin-gorm-oj-master/define"
+	//"OJ/define"
 	"log"
 
 	"github.com/go-redis/redis/v8"
