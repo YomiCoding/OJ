@@ -13,9 +13,9 @@ import (
 	"sync"
 	"time"
 
-	"gin-gorm-oj-master/define"
-	"gin-gorm-oj-master/helper"
-	"gin-gorm-oj-master/models"
+	"OJ/define"
+	"OJ/helper"
+	"OJ/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )
