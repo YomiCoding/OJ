@@ -3,7 +3,7 @@ package test
 import (
 	"context"
 	"fmt"
-	"gin-gorm-oj-master/models"
+	"OJ/models"
 	"testing"
 	"time"
 
