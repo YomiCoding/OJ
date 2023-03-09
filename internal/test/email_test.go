@@ -2,7 +2,7 @@ package test
 
 import (
 	"crypto/tls"
-	"gin-gorm-oj-master/define"
+	"OJ/define"
 	"net/smtp"
 	"testing"
 
