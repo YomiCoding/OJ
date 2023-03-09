@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"gin-gorm-oj-master/helper"
+	"OJ/helper"
 	"math/rand"
 	"strconv"
 	"testing"
