@@ -1,9 +1,9 @@
 package router
 
 import (
-	_ "gin-gorm-oj-master/docs"
-	"gin-gorm-oj-master/middlewares"
-	"gin-gorm-oj-master/service"
+	_ "OJ/docs"
+	"OJ/middlewares"
+	"OJ/service"
 
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"
