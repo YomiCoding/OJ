@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"gin-gorm-oj-master/define"
+	"OJ/define"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/jordan-wright/email"
 	uuid "github.com/satori/go.uuid"
