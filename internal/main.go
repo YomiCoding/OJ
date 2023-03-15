@@ -1,6 +1,6 @@
 package main
 
-import "gin-gorm-oj-master/router"
+import "OJ/internal/router"
 
 func main() {
 	r := router.Router()

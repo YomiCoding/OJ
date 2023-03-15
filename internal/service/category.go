@@ -1,14 +1,15 @@
 package service
 
 import (
-	"OJ/define"
-	"OJ/helper"
-	"OJ/models"
-	"github.com/gin-gonic/gin"
+	"OJ/internal/define"
+	"OJ/internal/helper"
+	"OJ/internal/models"
 	"log"
 	"net/http"
 	"strconv"
 	"time"
+
+	"github.com/gin-gonic/gin"
 )
 
 // GetCategoryList

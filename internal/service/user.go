@@ -1,15 +1,15 @@
 package service
 
 import (
+	"OJ/internal/define"
+	"OJ/internal/helper"
+	"OJ/internal/models"
 	"log"
 	"net/http"
 	"strconv"
 	"strings"
 	"time"
 
-	"OJ/define"
-	"OJ/helper"
-	"OJ/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

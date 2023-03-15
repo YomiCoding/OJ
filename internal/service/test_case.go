@@ -1,12 +1,13 @@
 package service
 
 import (
-	"OJ/define"
-	"OJ/models"
-	"github.com/gin-gonic/gin"
+	"OJ/internal/define"
+	"OJ/internal/models"
 	"log"
 	"net/http"
 	"strconv"
+
+	"github.com/gin-gonic/gin"
 )
 
 // GetTestCase

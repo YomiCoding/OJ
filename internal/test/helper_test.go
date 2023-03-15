@@ -1,8 +1,9 @@
 package test
 
 import (
+	"OJ/internal/helper"
 	"fmt"
-	"OJ/helper"
+
 	"math/rand"
 	"strconv"
 	"testing"

@@ -1,6 +1,9 @@
 package service
 
 import (
+	"OJ/internal/define"
+	"OJ/internal/helper"
+	"OJ/internal/models"
 	"bytes"
 	"errors"
 	"io"
@@ -13,9 +16,6 @@ import (
 	"sync"
 	"time"
 
-	"OJ/define"
-	"OJ/helper"
-	"OJ/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

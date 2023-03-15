@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"OJ/helper"
+	"OJ/internal/helper"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

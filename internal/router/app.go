@@ -1,9 +1,9 @@
 package router
 
 import (
-	_ "OJ/docs"
-	"OJ/middlewares"
-	"OJ/service"
+	_ "OJ/internal/docs"
+	"OJ/internal/middlewares"
+	"OJ/internal/service"
 
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"

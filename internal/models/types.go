@@ -1,9 +1,9 @@
 package models
 
 import (
+	"OJ/internal/define"
 	"database/sql/driver"
 	"fmt"
-	"OJ/define"
 	"time"
 )
 

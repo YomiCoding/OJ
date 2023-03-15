@@ -1,8 +1,9 @@
 package test
 
 import (
+	"OJ/internal/define"
 	"crypto/tls"
-	"OJ/define"
+
 	"net/smtp"
 	"testing"
 

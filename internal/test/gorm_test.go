@@ -1,8 +1,8 @@
 package test
 
 import (
+	"OJ/internal/models"
 	"fmt"
-	"OJ/models"
 	"testing"
 
 	"gorm.io/driver/mysql"

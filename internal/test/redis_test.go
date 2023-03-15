@@ -1,9 +1,10 @@
 package test
 
 import (
+	"OJ/internal/models"
 	"context"
 	"fmt"
-	"OJ/models"
+
 	"testing"
 	"time"
 

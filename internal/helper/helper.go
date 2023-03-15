@@ -1,11 +1,11 @@
 package helper
 
 import (
+	"OJ/internal/define"
 	"crypto/md5"
 	"crypto/tls"
 	"fmt"
 
-	"OJ/define"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/jordan-wright/email"
 	uuid "github.com/satori/go.uuid"
